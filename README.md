@@ -8,44 +8,48 @@ y represents the exercise number
 For example: 00_indoor.py is Indoor exercise, the 1st from chapter 0  
 
 ## Chapter 0 - Functions and Variables 📝
-- SELECT / WHERE / LIKE / ORDER BY
-- Range Conditions
-- Aggregate Functions
+- Functions and Arguments
+- Return
+- String Methods
 
 ## Chapter 1 - Conditionals 🤔
-- IN / JOIN / SETS / GROUPS
-- Subqueries
+- if, elif and else
+- match
+- or & and
+- Comparison Operators
+- Boolean
 
 ## Chapter 2 - Loops 🔁
-- CREATE TABLE / ALTER TABLE
-- Data Types & Storage Classes
-- Table & Columns Constraints
+- while
+- for
+- Validating Inputs
+- Dictionaries
 
 ## Chapter 3 - Exceptions 🚨
-- INSERT INTO / DELETE FROM / UPDATE
-- Importing
-- Foreign Key Constraints
-- Triggers
+- SyntaxError, ValueError, NameError
+- try and except
+- break and pass
 
 ## Chapter 4 - Libraries 📚
-- CREATE VIEW / TEMPORARY VIEW
-- Table Expressions
-- Partitioning
-- Securing
-- Triggers
+- import (from)
+- sys
+- APIs, Requests and JSON
 
 ## Chapter 5 - Unit Tests 🧪
-- INDEX
-- Query Plans
-- Transactions
+- pytest
+- assert
+- AssertionError
 
 ## Chapter 6 - File I/O 📂
-- MySQL
-- Stored Procedures
-- PostgreSQL
-- Prepared Statements
+- open (with)
+- csv
+- Lambda Function
 
 ## Chapter 7 - Regular Expressions 🧑‍🏫
-
+- Validation
+- re Library
 
 ## Chapter 8 - Object-Oriented Programming 🧩
+- Tuples
+- Instance and String Methods
+- Properties, Getters and Setters
